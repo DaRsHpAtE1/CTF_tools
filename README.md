@@ -1,9 +1,21 @@
 # CTF Tools
-This repository is a place where I want to keep all the useful *resources/websites/tools* to solve CTF challenges. All the tools will be divided by category, in order to have a better organization.
+This repository is a place where I want to keep all the useful *resources/websites/tools* to solve CTF challenges. All the tools will be divided by category, in order to better organize them.
+
+It will contain even some "obvious" links, like the ASCII table and so on, because it is a page indended to be kept open during CTFs: you never know what will come in handy!
 
 This repo is for me but also for my CTF team, and why not for whoever will get to this page.
 
-It will contain even some "obvious" links, like the ASCII table and so on, because it is a page indended to be kept open during CTFs: you never know what will come in handy!
+## Want to contribute?
+1. **Fork the repository** - Create your own fork on GitHub
+2. **Create a feature branch** - Create a new branch for your feature:
+```bash
+git checkout -b feature/description
+```
+4. **Make your changes** - Write your contribution
+7. **Commit and push your changes** - Use clear commit messages and push your branch
+9. **Create a pull request** - Submit a PR against this repository
+
+Any question or no time to make your own changes? _**Feel free to create an issue on this repository!**_
 
 ## Training 🚩
 > A list of useful websites to train our skills and knowledge.
